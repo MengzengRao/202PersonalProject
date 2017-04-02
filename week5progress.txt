@@ -1,0 +1,2 @@
+code the project this week
+start playing around with class, variable, and method
