@@ -1,0 +1,6 @@
+[A|-x:int;-y:int(*)]1-0..*[B],
+[A]-1[C],
+[A]-*[D]
+
+// test case #1 / compact
+[A|-x:int;-y:int(*)]1-0..*[B],[A]-1[C],[A]-*[D]
